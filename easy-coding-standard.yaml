@@ -76,7 +76,7 @@ services:
   PhpCsFixer\Fixer\NamespaceNotation\SingleBlankLineBeforeNamespaceFixer: ~
   PhpCsFixer\Fixer\Operator\BinaryOperatorSpacesFixer: ~
   PhpCsFixer\Fixer\Operator\ConcatSpaceFixer:
-    spacing: none
+    spacing: 'one'
   PhpCsFixer\Fixer\Operator\NewWithBracesFixer: ~
   PhpCsFixer\Fixer\Operator\TernaryOperatorSpacesFixer: ~
   PhpCsFixer\Fixer\Operator\TernaryToNullCoalescingFixer: ~
