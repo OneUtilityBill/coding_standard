@@ -63,7 +63,6 @@ services:
       - class
       - const
       - function
-  PhpCsFixer\Fixer\Import\SingleImportPerStatementFixer: ~
   PhpCsFixer\Fixer\Import\SingleLineAfterImportsFixer: ~
   PhpCsFixer\Fixer\LanguageConstruct\DeclareEqualNormalizeFixer:
     space: none
@@ -89,7 +88,6 @@ services:
   PhpCsFixer\Fixer\Semicolon\NoEmptyStatementFixer: ~
   PhpCsFixer\Fixer\Semicolon\NoSinglelineWhitespaceBeforeSemicolonsFixer: ~
   PhpCsFixer\Fixer\Semicolon\SpaceAfterSemicolonFixer: ~
-  PhpCsFixer\Fixer\Strict\DeclareStrictTypesFixer: ~
   PhpCsFixer\Fixer\StringNotation\ExplicitStringVariableFixer: ~
   PhpCsFixer\Fixer\StringNotation\SingleQuoteFixer: ~
   PhpCsFixer\Fixer\Whitespace\ArrayIndentationFixer: ~
