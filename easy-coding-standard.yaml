@@ -108,7 +108,6 @@ services:
     linesCountBetweenUses: 0
   SlevomatCodingStandard\Sniffs\Classes\UnusedPrivateElementsSniff: ~
   SlevomatCodingStandard\Sniffs\ControlStructures\RequireShortTernaryOperatorSniff: ~
-  SlevomatCodingStandard\Sniffs\Exceptions\ReferenceThrowableOnlySniff: ~
   SlevomatCodingStandard\Sniffs\Functions\UnusedInheritedVariablePassedToClosureSniff: ~
   SlevomatCodingStandard\Sniffs\Namespaces\UselessAliasSniff: ~
   SlevomatCodingStandard\Sniffs\Operators\RequireCombinedAssignmentOperatorSniff: ~
